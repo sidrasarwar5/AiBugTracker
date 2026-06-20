@@ -52,6 +52,8 @@ export interface Bug {
   resolution_notes: string;
   created_at: string;
   updated_at: string;
+   priority: string;
+  category: string;
 }
 
 export interface Notification {
