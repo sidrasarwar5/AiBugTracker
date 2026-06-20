@@ -345,6 +345,7 @@ function CreateBugContent() {
                 { value: "database", label: "Database" },
                 { value: "performance", label: "Performance" },
                 { value: "security", label: "Security" },
+                { value: "auth", label: "Authentication" },
                 { value: "other", label: "Other" },
               ]}
             />
